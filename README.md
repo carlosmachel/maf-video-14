@@ -1,4 +1,3 @@
-Aqui está um **Markdown estruturado** com os principais conceitos do exemplo **Agent_Step18_CompactionPipeline** do Microsoft Agent Framework, no mesmo estilo explicativo da documentação 👇
 
 ---
 
