@@ -286,7 +286,4 @@ pipeline = new(
 * Summarization é poderosa, mas com trade-offs
 
 ---
-
-Se quiser, posso transformar isso em um **diagrama visual estilo arquitetura (nível senior/Staff)** ou conectar com **Memory strategies tipo LangChain / Semantic Kernel** — isso aqui é exatamente o coração de LLM Systems Engineering.
-
 [1]: https://learn.microsoft.com/en-us/agent-framework/agents/conversations/compaction?utm_source=chatgpt.com "Compaction | Microsoft Learn"
